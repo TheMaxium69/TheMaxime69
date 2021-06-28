@@ -18,5 +18,5 @@
 - 🌐~ Mon Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
 - 🌐~ Mon Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
 ```js
-Console.log("Hello Tyrolium ;)
+Console.log("Hello Tyrolium ;)");
 ```
