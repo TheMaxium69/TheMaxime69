@@ -1,8 +1,8 @@
 # Maxime Tournier
 - ❤~ 17 ans, Lyon
 - 🧡~ Directeur-Fondateur de [Tyrolium](https://tyrolium.fr/)
-- 💛~ En Formation Développeur Web Chez HumanBooster
-- 💚~ Mes Language Favorise - Java, Php
+- 💛~ En Formation Développeur Web Chez [HumanBooster](https://humanbooster.com/)
+- 💚~ Mes Language Favorise - Java, PHP
 - 💜~ Dev/Streameur - Mon [Twitch](twitch.tv/themaximesan)
 - 💙~ Rejoignez moi sur Mon [Discord](https://discord.gg/mtDx9ceS7n)
 
