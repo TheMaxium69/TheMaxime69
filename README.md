@@ -16,7 +16,9 @@
 - 🌐~ Mon Instagram : [the_maxime_san](https://www.instagram.com/the_maxime_san/)
 - 🌐~ Mon Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
 - 🌐~ Mon Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
-
+```js
+Console.log("Hello World");
+```
 ```java
 System.out.println("Vive Tyrolium ;)");
 ```
