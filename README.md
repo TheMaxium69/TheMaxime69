@@ -2,7 +2,7 @@
 - ❤~ 17 ans, Lyon
 - 🧡~ Directeur-Fondateur de [Tyrolium](https://tyrolium.fr/)
 - 💛~ En Formation Développeur Web Chez [HumanBooster](https://humanbooster.com/)
-- 💚~ Mes Language Favorise - Java, PHP
+- 💚~ Les Language Que Je Maîtrise - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS` (FrameWork/Lib : `Angular`, `Gradle`, `ForgeMC`, `NodeJS`, `Electron`, `Boostrap`)
 - 💜~ Dev/Streameur - Mon [Twitch](twitch.tv/themaximesan)
 - 💙~ Rejoignez moi sur Mon [Discord](https://discord.gg/mtDx9ceS7n)
 
