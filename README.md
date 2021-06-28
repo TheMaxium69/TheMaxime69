@@ -18,5 +18,5 @@
 - 🌐~ Mon Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
 
 ```java
-System.out.println("Hello World");
+System.out.println("Vive Tyrolium ;)");
 ```
