@@ -9,7 +9,7 @@
 
 ## Mes Oragnisation sur Github 
 - 🔵 [Organisation de Tyrolium](https://github.com/Tyrolium)
-- ⚫ [Organisation de TyroServ (Projet de Serveur Communauter Modifiant Minecraft)](https://github.com/TyroliumServerMC)
+- ⚫ [Organisation de TyroServ (Projet de Serveur Communautaire Modifiant Minecraft)](https://github.com/TyroliumServerMC)
 - 🔴 [Organisation de Mes Projet Sans Code](https://github.com/TheMaximeSan-NoCode)
 
 ## Mes Réseaux
