@@ -3,7 +3,7 @@
 - 🧡~ Directeur-Fondateur de [Tyrolium](https://tyrolium.fr/)
 - 💛~ En Formation Développeur Web Chez [HumanBooster](https://humanbooster.com/)
 - 💚~ Les Language Que Je Maîtrise - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS` (FrameWork/Lib : `Angular`, `Gradle`, `ForgeMC`, `NodeJS`, `Electron`, `Boostrap`)
-- 💜~ Mes Logiciel - OS : `LinuxUser` et `Windows` pour le Gaming - Ide : `Intellij Idea` Et `Visual Studio Code` 
+- 💜~ Mes Logiciel - OS : `GNU/Linux - Ubuntu Desktop`, `Windows` pour le Gaming et `GNU/Linux - Debian Server` pour mes Serveurs  - Ide : `Intellij Idea` Et `Visual Studio Code` 
 - 💙~ Dev/Streameur - Mon [Twitch](twitch.tv/themaximesan)
 - 🖤~ Rejoignez moi sur Mon [Discord](https://discord.gg/mtDx9ceS7n)
 
