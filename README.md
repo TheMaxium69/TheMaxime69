@@ -14,10 +14,11 @@
 - 🔴 [Organisation de Mes Projet Sans Code](https://github.com/TheMaximeSan-NoCode)
 
 ## Mes Réseaux
+- 🌐~ Mon E-Mail : maxime.tournier@tyrolium.fr
 - 🌐~ Mon Discord : TheMaximeSan#0001
 - 🌐~ Mon Instagram : [the_maxime_san](https://www.instagram.com/the_maxime_san/)
-- 🌐~ Mon Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
 - 🌐~ Mon Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
+- 🌐~ Mon Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
 ```js
 Console.log("Hello Tyrolium ;)");
 ```
