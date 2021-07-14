@@ -2,7 +2,7 @@
 - ❤~ 17 ans, Lyon
 - 🧡~ Directeur-Fondateur de [Tyrolium](https://tyrolium.fr/)
 - 💛~ En Formation Développeur Web Chez [HumanBooster](https://humanbooster.com/)
-- 💚~ Les Language Que Je Maîtrise - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL` (
+- 💚~ Les Language Que Je Maîtrise - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL`
 - 💜~ Mes FrameWork/Lib/Moteur Que Je Maîtrise - [`Gradle`](https://gradle.org/), [`ForgeMC`](https://files.minecraftforge.net/net/minecraftforge/forge/), [`SpigotMC`](https://www.spigotmc.org/), [`Angular`](https://angular.io/), [`NodeJS`](https://nodejs.org/), [`Electron`](https://www.electronjs.org/), [`Boostrap`](https://getbootstrap.com/), [`Symfony`](https://symfony.com/), [`MySQL`](https://www.mysql.com/), [`MariaDB`](https://mariadb.org/) et [`PhpMyAdmin`](https://www.phpmyadmin.net/)
 - 💙~ Mes Logiciel - OS : [`GNU/Linux - Ubuntu Desktop`](https://ubuntu.com/), [`Windows`](https://www.microsoft.com/fr-fr/windows/) pour le Gaming et [`GNU/Linux - Debian Server`](https://www.debian.org/) pour mes Serveurs  - Ide : [`Intellij Idea`](https://www.jetbrains.com/fr-fr/idea/) Et [`Visual Studio Code`](https://code.visualstudio.com/)
 - 🖤~ Dev/Streameur - Mon [Twitch](twitch.tv/themaximesan)
