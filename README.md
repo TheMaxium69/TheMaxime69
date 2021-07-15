@@ -1,5 +1,5 @@
 # Maxime Tournier
-- ❤~ 17 years, France
+- ❤~ 17 years old, France
 - 🧡~ Founder Director of [Tyrolium](https://tyrolium.fr/)
 - 💛~ Web Developer training at [HumanBooster](https://humanbooster.com/)
 - 💚~ The Programming Languages that I know - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL`
