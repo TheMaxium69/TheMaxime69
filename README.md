@@ -10,7 +10,7 @@
 
 ## My Organizations on Github 
 - 🔵 [Organization of Tyrolium](https://github.com/Tyrolium)
-- ⚫ [Organization of TyroServ (Minecraft Modifying Community Server Project)](https://github.com/TyroliumServerMC)
+- ⚫ [Organization of TyroServ (Minecraft Modifying Community Server Project)](https://github.com/TyroServ)
 - 🔴 [Organization of My Projet Codeless](https://github.com/TheMaximeSan-NoCode)
 
 ## My Social Networks
