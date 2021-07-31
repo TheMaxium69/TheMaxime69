@@ -19,15 +19,16 @@
 - [![Organization of My Projet Codeless](https://img.shields.io/badge/Organization-TheMaximeSanNoCode-cc391f)](https://github.com/TheMaximeSan-NoCode) My Projet Codeless
 
 ## My Social Networks
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCWOQ5ZyLgg5hWldBCdikaQ?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/MaximeTournier2?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/TheMaximeSan?style=social)
-![GitHub followers](https://img.shields.io/github/followers/TheMaxium69?style=social)
 - 🌐~ My E-Mail : maxime.tournier@tyrolium.fr
 - 🌐~ My Discord : TheMaximeSan#0001
 - 🌐~ My Instagram : [the_maxime_san](https://www.instagram.com/the_maxime_san/)
 - 🌐~ My Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
 - 🌐~ My Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCWOQ5ZyLgg5hWldBCdikaQ?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/MaximeTournier2?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/TheMaximeSan?style=social)
+![GitHub followers](https://img.shields.io/github/followers/TheMaxium69?style=social)
 ```js
 Console.log("Hello Tyrolium ;)");
 ```
