@@ -14,9 +14,9 @@
 </div>
 
 ## My Organizations on Github 
-- 🔵 [Organization of Tyrolium](https://github.com/Tyrolium)
-- ⚫ [Organization of TyroServ (Minecraft Modifying Community Server Project)](https://github.com/TyroServ)
-- 🔴 [Organization of My Projet Codeless](https://github.com/TheMaximeSan-NoCode)
+- [![Organization of Tyrolium](https://img.shields.io/badge/Organization-Tyrolium-3960ef)](https://github.com/Tyrolium) My Socity 
+- [![Organization of TyroServ (Minecraft Modifying Community Server Project)](https://img.shields.io/badge/Organization-TyroServ-1d8e25)](https://github.com/TyroServ) Minecraft Modifying Community Server Project
+- [![Organization of My Projet Codeless](https://img.shields.io/badge/Organization-TheMaximeSanNoCode-cc391f)](https://github.com/TheMaximeSan-NoCode) My Projet Codeless
 
 ## My Social Networks
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCWOQ5ZyLgg5hWldBCdikaQ?style=social)
