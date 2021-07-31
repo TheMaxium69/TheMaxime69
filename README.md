@@ -19,6 +19,10 @@
 - 🔴 [Organization of My Projet Codeless](https://github.com/TheMaximeSan-NoCode)
 
 ## My Social Networks
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCWOQ5ZyLgg5hWldBCdikaQ?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/MaximeTournier2?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/TheMaximeSan?style=social)
+![GitHub followers](https://img.shields.io/github/followers/TheMaxium69?style=social)
 - 🌐~ My E-Mail : maxime.tournier@tyrolium.fr
 - 🌐~ My Discord : TheMaximeSan#0001
 - 🌐~ My Instagram : [the_maxime_san](https://www.instagram.com/the_maxime_san/)
@@ -27,6 +31,5 @@
 ```js
 Console.log("Hello Tyrolium ;)");
 ```
-
 
 
