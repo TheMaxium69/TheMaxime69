@@ -25,10 +25,10 @@
 - 🌐~ My Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
 - 🌐~ My Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCWOQ5ZyLgg5hWldBCdikaQ?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/MaximeTournier2?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/TheMaximeSan?style=social)
-![GitHub followers](https://img.shields.io/github/followers/TheMaxium69?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCCWOQ5ZyLgg5hWldBCdikaQ?style=social)](https://www.youtube.com/channel/UCCWOQ5ZyLgg5hWldBCdikaQ)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MaximeTournier2?style=social)](https://twitter.com/MaximeTournier2)
+[![Twitch Status](https://img.shields.io/twitch/status/TheMaximeSan?style=social)](https://www.twitch.tv/themaximesan/)
+[![GitHub followers](https://img.shields.io/github/followers/TheMaxium69?style=social)](https://github.com/TheMaxium69/)
 ```js
 Console.log("Hello Tyrolium ;)");
 ```
