@@ -1,5 +1,5 @@
 # Maxime Tournier
-- ❤~ 18 years old, France
+- ❤~ 19 years old, France
 - 🧡~ CEO & Founder of [Tyrolium](https://tyrolium.fr/)
 - 💛~ The Languages that I know - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL`, `PowerShell`, `Bash`, `C++`, `Batch`, `C#`
 - 💚~ The FrameWork/Lib/Engine that I know - [`Gradle`](https://gradle.org/), [`ForgeMC`](https://files.minecraftforge.net/net/minecraftforge/forge/), [`SpigotMC`](https://www.spigotmc.org/), [`Angular`](https://angular.io/), [`NodeJS`](https://nodejs.org/), [`Electron`](https://www.electronjs.org/), [`Boostrap`](https://getbootstrap.com/), [`Material-UI CSS`](https://www.muicss.com), [`Symfony`](https://symfony.com/), [`MySQL`](https://www.mysql.com/), [`MariaDB`](https://mariadb.org/), [`PhpMyAdmin`](https://www.phpmyadmin.net/), [`WordPress`](https://wordpress.com/), [`WHMCS`](https://www.whmcs.com/), [`Pterodactyl`](https://pterodactyl.io/) et [`Unity`](https://unity.com/)
