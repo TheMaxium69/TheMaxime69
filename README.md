@@ -1,15 +1,19 @@
 # Maxime Tournier
-- ❤~ 19 years old, France
+- ❤~ Lyon, France
 - 🧡~ CEO & Founder of [Tyrolium](https://tyrolium.fr/)
-- 💛~ The Languages that I know - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL`, `PowerShell`, `Bash`, `C++`, `Batch`, `C#`
-- 💚~ The FrameWork/Lib/Engine that I know - [`Gradle`](https://gradle.org/), [`ForgeMC`](https://files.minecraftforge.net/net/minecraftforge/forge/), [`SpigotMC`](https://www.spigotmc.org/), [`Angular`](https://angular.io/), [`NodeJS`](https://nodejs.org/), [`Electron`](https://www.electronjs.org/), [`Boostrap`](https://getbootstrap.com/), [`Material-UI CSS`](https://www.muicss.com), [`Symfony`](https://symfony.com/), [`MySQL`](https://www.mysql.com/), [`MariaDB`](https://mariadb.org/), [`PhpMyAdmin`](https://www.phpmyadmin.net/), [`WordPress`](https://wordpress.com/), [`WHMCS`](https://www.whmcs.com/), [`Pterodactyl`](https://pterodactyl.io/) et [`Unity`](https://unity.com/)
-- 💜~ My Software and OS - [`GNU/Linux - Kubuntu Desktop`](https://kubuntu.org/), [`Windows 11`](https://www.microsoft.com/fr-fr/windows/) for Gaming and [`GNU/Linux - Debian Server`](https://www.debian.org/) for my Server  / Ide - [`Intellij Idea`](https://www.jetbrains.com/fr-fr/idea/) and [`Visual Studio Code`](https://code.visualstudio.com/)
+- 💛~ The Languages that I know - `Java`, `PHP`, `JS`, `TS`, `HTML`, `CSS`, `SQL`, `PowerShell`, `Bash`, `C++`, `Batch`, `C#`, `C`, `Assembly`
+- 💚~ The FrameWork/Lib/Engine that I know - [`Gradle`](https://gradle.org/), [`ForgeMC`](https://files.minecraftforge.net/net/minecraftforge/forge/), [`SpigotMC`](https://www.spigotmc.org/), [`Angular`](https://angular.io/), [`NodeJS`](https://nodejs.org/), [`Electron`](https://www.electronjs.org/), [`Boostrap`](https://getbootstrap.com/), [`Material-UI CSS`](https://www.muicss.com), [`Symfony`](https://symfony.com/), [`MySQL`](https://www.mysql.com/), [`MariaDB`](https://mariadb.org/), [`Unity`](https://unity.com/), [`Unreal Engine`](https://www.unrealengine.com/), [`Material-Angular`](https://material.angular.io/) et [`Koltin`](https://kotlinlang.org/)
+- 💜~ The CMS that I know - [`WordPress`](https://wordpress.com/), [`WHMCS`](https://www.whmcs.com/), [`Pterodactyl`](https://pterodactyl.io/), [`PrestaShop`](https://prestashop.fr/)
 - 💙~ Join me on my [Discord](https://discord.gg/mtDx9ceS7n)
 ## Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMaxium69&count_private=true&show_icons=true&theme=synthwave" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxium69&theme=synthwave&layout=compact&langs_count=6" />
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaxium69&theme=synthwave&hide_border=true" />
 </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMaxium69&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxium69&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
 
 ## My Organizations on Github 
 - [![Organization of Tyrolium](https://img.shields.io/badge/Organization-Tyrolium-0035DA)](https://github.com/Tyrolium) My Socity 
@@ -19,7 +23,7 @@
 
 ## My Social Networks
 - 🌐~ My E-Mail : maxime.tournier@tyrolium.fr
-- 🌐~ My Discord : TheMaximeSan#9180
+- 🌐~ My Discord : themaximesan
 - 🌐~ My Instagram : [the_maxime_san](https://www.instagram.com/the_maxime_san/)
 - 🌐~ My Twitter : [@MaximeTournier2](https://twitter.com/MaximeTournier2)
 - 🌐~ My Linkedin : [maxime_tournier_tyrolium](https://www.linkedin.com/in/maxime-tournier-tyrolium/)
@@ -28,6 +32,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MaximeTournier2?style=social)](https://twitter.com/MaximeTournier2)
 [![Twitch Status](https://img.shields.io/twitch/status/TheMaximeSan?style=social)](https://www.twitch.tv/themaximesan/)
 [![GitHub followers](https://img.shields.io/github/followers/TheMaxium69?style=social)](https://github.com/TheMaxium69/)
+
 ```js
 Console.log("Hello Tyrolium ;)");
 ```
