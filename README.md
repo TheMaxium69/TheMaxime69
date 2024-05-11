@@ -7,11 +7,12 @@
 - 💙~ Join me on my [Discord](https://discord.gg/mtDx9ceS7n)
 ## Stats
 <div align="center">
-  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaxium69&theme=synthwave&hide_border=true" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheMaxium69&theme=synthwave&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TheMaxium69&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
 </div>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheMaxium69&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxium69&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
+  <img height="300em" src="https://api.githubtrends.io/user/svg/TheMaxium69/repos?time_range=one_year&theme=synthwaves" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaxium69&theme=synthwave&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
